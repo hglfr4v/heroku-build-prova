@@ -10,7 +10,7 @@ info:
   license:
     name: "xyz"
     url: "http://opensource.org/licenses/MIT"
-host: "localhost:8080"
+host: "https://prova-hyp-be.herokuapp.com/"
 basePath: "/v2"
 tags:
 - name: "book"
